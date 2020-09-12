@@ -1,0 +1,2 @@
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex02 RoyFassberg 311248058 OrelMoshe 313520546\B20_Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Users\or-el\OneDrive\שולחן העבודה\Orel\לימודים\שנה ב\C#\B20 Ex02 RoyFassberg 311248058 OrelMoshe 313520546\B20_Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
